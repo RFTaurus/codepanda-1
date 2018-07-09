@@ -189,8 +189,8 @@
 
         <div class="row section-header has-bottom-sep" data-aos="fade-up">
             <div class="col-full">
-                <h4 class="subhead">Apa yang kita lakukan?</h4>
-                <h3 class="display-2">kami dapat memberikan layanan yang membantu bisnis kalian berkembang</h3>
+                <h4 class="subhead">Apa yang kami lakukan?</h4>
+                <h3 class="display-2">Kami memberikan layanan yang dapat membantu bisnis anda berkembang.</h3>
             </div>
         </div> <!-- end section-header -->
 
