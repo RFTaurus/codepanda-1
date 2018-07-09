@@ -10,7 +10,7 @@ class MessageController extends Controller
 {
     public function create(Request $request){
         $input = $request->all();
-        $input['phone'] = '0'.$input['phone'];
+        // $input['phone'] = '0'.$input['phone'];
         // dd($input);
         $msg = Message::create($input);
         return redirect('thanks');
