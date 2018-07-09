@@ -1,5 +1,9 @@
 @extends('templates.admin.index')
 
+@section('head')
+    <link rel="stylesheet" href="{{asset('bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css')}}">
+@endsection
+
 @section('content-header')
     <section class="content-header">
       <h1>
@@ -16,36 +20,80 @@
 @section('content')
     <section class="content">
       <div class="row">
-        <div class="col-lg-6 col-xs-6">
-          <!-- small box -->
-          <div class="small-box bg-maroon">
-            <div class="inner">
-              <h3>{{App\Message::count()}}</h3>
-
-              <p>Jumlah Pesan</p>
+        <div class="col-lg-12 col-xs-12">
+          <div class="box">
+            <div class="box-header">
+              <h3 class="box-title">Table List of Message</h3>
             </div>
-            <div class="icon">
-              <i class="ion ion-bag"></i>
+            <!-- /.box-header -->
+            <div class="box-body">
+              <table id="example1" class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>Organization</th>
+                        <th>Budget</th>
+                        <th>Service Type</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                @php
+                    $msgs = App\Message::get();
+                    $no = 1;
+                @endphp
+                <tbody>
+                    @foreach ($msgs as $msg)
+                    <tr>
+                        <td>{{$no++}}</td>
+                        <td>{{$msg->name}}</td>
+                        <td>{{$msg->email}}</td>
+                        <td>{{$msg->phone}}</td>
+                        <td>{{$msg->organization}}</td>
+                        <td>{{$msg->budget}}</td>
+                        <td>{{$msg->serviceType}}</td>
+                        <td>{{$msg->description}}</td>
+                    </tr>
+                    @endforeach
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th>No</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>Organization</th>
+                        <th>Budget</th>
+                        <th>Service Type</th>
+                        <th>Description</th>
+                    </tr>
+                </tfoot>
+              </table>
             </div>
-            <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
-          </div>
-        </div>
-        <!-- ./col -->
-        <div class="col-lg-6 col-xs-6">
-          <!-- small box -->
-          <div class="small-box bg-purple">
-            <div class="inner">
-              <h3>{{App\User::count()}}</h3>
-
-              <p>Jumlah User</p>
-            </div>
-            <div class="icon">
-              <i class="ion ion-person-add"></i>
-            </div>
-            <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+            <!-- /.box-body -->
           </div>
         </div>
         <!-- ./col -->
       </div>
     </section>
+@endsection
+
+@section('script')
+    <script src="{{asset('bower_components/datatables.net/js/jquery.dataTables.min.js')}}"></script>
+    <script src="{{asset('bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js')}}"></script>
+    <script>
+    $(function () {
+        $('#example1').DataTable()
+        $('#example2').DataTable({
+        'paging'      : true,
+        'lengthChange': false,
+        'searching'   : false,
+        'ordering'    : true,
+        'info'        : true,
+        'autoWidth'   : false
+        })
+    })
+    </script>
 @endsection

@@ -8,6 +8,8 @@ use Auth;
 class AdminController extends Controller
 {
     public function login(){
+        if(Auth::user())
+            return redirect('/admin');
         return view('templates.admin.login');
     }
 
