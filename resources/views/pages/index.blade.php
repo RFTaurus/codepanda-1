@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="css/base-2.css">
     <link rel="stylesheet" href="css/vendor-2.css">
     <link rel="stylesheet" href="css/main-2.css">
-    
+
     <!-- script
     ================================================== -->
     <script src="js/modernizr.js"></script>
@@ -35,7 +35,7 @@
     <link rel="icon" href="images/faviconCircle.png" type="image/x-icon">
 
     <!-- Auto Clear Cache
-    ================================================== -->    
+    ================================================== -->
     <meta http-equiv="cache-control" content="no-cache">
 
 </head>
@@ -46,7 +46,7 @@
     ================================================== -->
     <header class="s-header">
         <div class="header-logo">
-            <a class="site-logo logo-icon" href="index.html">
+            <a class="site-logo logo-icon" href="{{route('index')}}">
                 <img class="panda-logo" src="images/LogoPanda.png" alt="Homepage">
             </a>
         </div>
@@ -57,7 +57,7 @@
 
             <div class="header-nav__content">
                 <h3>Navigasi</h3>
-                
+
                 <ul class="header-nav__list">
                     <li class="current"><a class="smoothscroll"  href="#home" title="home">Beranda</a></li>
                     <li><a class="smoothscroll"  href="#about" title="about">Tentang</a></li>
@@ -66,9 +66,9 @@
                     <li><a class="smoothscroll"  href="#clients" title="clients">Klien</a></li>
                     <li><a class="smoothscroll"  href="#contact" title="contact">Kontak</a></li>
                 </ul>
-    
+
                 <p><span style="color:#fcfcfc; font-weight:600">Codepanda</span> adalah tempat bertemunya konseptor yang memiliki ide luar biasa dengan kreator yang memiliki kemampuan untuk mewujudkan ide tersebut melalui penggunaan teknologi digital.</p>
-    
+
                 <ul class="header-nav__social">
                     <li>
                         <a href="https://www.linkedin.com/company/13668039/"><i class="fa fa-linkedin"></i></a>
@@ -136,7 +136,7 @@
             <li>
                 <a href="https://www.instagram.com/codepanda/"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
             </li>
-        </ul> 
+        </ul>
         <!-- end home-social -->
 
     </section> <!-- end s-home -->
@@ -156,13 +156,13 @@
         <div class="row about-desc" data-aos="fade-up">
             <div class="col-full">
                 <p style="font-family: 'Montserrat', sans-serif; color:#1a1919">
-                    <span style="font-weight:600">Codepanda</span> adalah tempat bertemunya <span style="font-weight:600">konseptor</span> yang memiliki ide luar biasa dengan <span style="font-weight:600">kreator</span> yang memiliki kemampuan untuk mewujudkan ide tersebut melalui penggunaan teknologi digital. 
+                    <span style="font-weight:600">Codepanda</span> adalah tempat bertemunya <span style="font-weight:600">konseptor</span> yang memiliki ide luar biasa dengan <span style="font-weight:600">kreator</span> yang memiliki kemampuan untuk mewujudkan ide tersebut melalui penggunaan teknologi digital.
                 </p>
             </div>
         </div> <!-- end about-desc -->
 
         <div class="row about-stats stats block-1-3 block-m-1-2 block-mob-full"  style="margin:0% auto" data-aos="fade-up">
-                
+
             <div class="col-block stats__col ">
                 <div class="stats__count">6</div>
                 <h5>Project Ongoing</h5>
@@ -173,7 +173,7 @@
             </div>
             <div class="col-block stats__col">
                 <div class="stats__count">2</div>
-                <h5>Happy Clients</h5> 
+                <h5>Happy Clients</h5>
             </div>
 
         </div> <!-- end about-stats -->
@@ -199,10 +199,10 @@
             <div class="col-block service-item" data-aos="fade-up">
                 <div class="service-icon">
                     <i class="icon-earth"></i>
-                </div>  
+                </div>
                 <div class="service-text">
                     <h3 class="h2">Web</h3>
-                    <p>Pembuatan sistem berbasis web bisa diterapkan untuk company profile, e-commerce, 
+                    <p>Pembuatan sistem berbasis web bisa diterapkan untuk company profile, e-commerce,
                     kompetisi, blog pribadi, dan lainnya.
                     </p>
                 </div>
@@ -214,8 +214,8 @@
                 </div>
                 <div class="service-text">
                     <h3 class="h2">Mobile Apps</h3>
-                    <p>Aplikasi berbasis mobile banyak diminati karena lebih memudahkan dibandingkan website. 
-                    Pembuatan sistem aplikasi mobile digunakan untuk monitoring keuangan, marketplace, 
+                    <p>Aplikasi berbasis mobile banyak diminati karena lebih memudahkan dibandingkan website.
+                    Pembuatan sistem aplikasi mobile digunakan untuk monitoring keuangan, marketplace,
                     pembuatan sosial media, dan lain-lain.
                     </p>
                 </div>
@@ -227,21 +227,21 @@
                 </div>
                 <div class="service-text">
                     <h3 class="h2">Desain Grafis</h3>
-                    <p>Penyajian informasi dalam bentuk gambar lebih menarik daripada hanya dalam bentuk 
-                    teks. Desain grafis dapat digunakan untuk poster, kartu nama, desain logo, proposal, 
+                    <p>Penyajian informasi dalam bentuk gambar lebih menarik daripada hanya dalam bentuk
+                    teks. Desain grafis dapat digunakan untuk poster, kartu nama, desain logo, proposal,
                     infografis dan lain-lain.
                     </p>
                 </div>
             </div>
-    
+
             <div class="col-block service-item" data-aos="fade-up">
                 <div class="service-icon">
                     <i class="icon-video"></i>
                 </div>
                 <div class="service-text">
                     <h3 class="h2">Video Grafis</h3>
-                    <p>Penyajian informasi dalam bentuk video lebih mudah dipahami. Video grafis dapat 
-                    diterapkan untuk mendeskripsikan profil perusahaan, cara kerja suatu sistem, 
+                    <p>Penyajian informasi dalam bentuk video lebih mudah dipahami. Video grafis dapat
+                    diterapkan untuk mendeskripsikan profil perusahaan, cara kerja suatu sistem,
                     undangan pernikahan, dan lain-lain.
                     </p>
                 </div>
@@ -257,7 +257,7 @@
     <section id='works' class="s-works">
 
         <div class="intro-wrap">
-                
+
             <div class="row section-header has-bottom-sep light-sep" data-aos="fade-up">
                 <div class="col-full">
                     <h3 class="subhead">Hasil Karya</h3>
@@ -270,17 +270,17 @@
         <div class="row works-content">
             <div class="col-full masonry-wrap">
                 <div class="masonry">
-    
+
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
-                                
+
                             <div class="item-folio__thumb">
                                 <a href="images/portfolio/gallery/ekir.png" class="thumb-link" title="E-KIR Tangerang" data-size="1050x700">
-                                    <img src="images/portfolio/ekir.png" 
+                                    <img src="images/portfolio/ekir.png"
                                          srcset="images/portfolio/ekir.png 1x, images/portfolio/ekir@2x.png 2x" alt="">
                                 </a>
                             </div>
-    
+
                             <div class="item-folio__text">
                                 <h3 class="item-folio__title">
                                     E-KIR Tangerang
@@ -289,28 +289,28 @@
                                     Mobile Apps
                                 </p>
                             </div>
-    
+
                             <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
                                 <i class="icon-link"></i>
                             </a>
-    
+
                             <div class="item-folio__caption">
                                 <p>Aplikasi untuk melakukan pendaftaran uji kendaraan secara online.</p>
                             </div>
-    
+
                         </div>
                     </div> <!-- end masonry__brick -->
 
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
-                                
+
                             <div class="item-folio__thumb">
                                 <a href="images/portfolio/gallery/senyumDifabel.png" class="thumb-link" title="Senyum Difabel" data-size="1050x700">
-                                    <img src="images/portfolio/senyumDifabel.png" 
+                                    <img src="images/portfolio/senyumDifabel.png"
                                          srcset="images/portfolio/senyumDifabel.png 1x, images/portfolio/senyumDifabel@2x.png 2x" alt="">
                                 </a>
                             </div>
-    
+
                             <div class="item-folio__text">
                                 <h3 class="item-folio__title">
                                     Senyum Difabel
@@ -319,29 +319,29 @@
                                     Mobile Apps
                                 </p>
                             </div>
-    
+
                             <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
                                 <i class="icon-link"></i>
                             </a>
-    
+
                             <div class="item-folio__caption">
-                                <p>Aplikasi untuk pencarian pekerjaan khusus untuk orang-orang difabel, 
+                                <p>Aplikasi untuk pencarian pekerjaan khusus untuk orang-orang difabel,
                                 dilengkapi dengan fitur chat perorangan maupun grup.</p>
                             </div>
-    
+
                         </div>
                     </div> <!-- end masonry__brick -->
-    
+
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
-                                
+
                             <div class="item-folio__thumb">
                                 <a href="images/portfolio/gallery/fmart.png" class="thumb-link" title="F-Mart Apps" data-size="1050x700">
                                     <img src="images/portfolio/fmart.png"
                                          srcset="images/portfolio/fmart.png 1x, images/portfolio/fmart@2x.png 2x" alt="">
                                 </a>
                             </div>
-    
+
                             <div class="item-folio__text">
                                 <h3 class="item-folio__title">
                                     F-Mart Apps
@@ -350,30 +350,30 @@
                                     Mobile Apps
                                 </p>
                             </div>
-    
+
                             <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
                                 <i class="icon-link"></i>
                             </a>
-    
+
                             <div class="item-folio__caption">
-                                <p>F-Mart, terdiri dari 2 (dua) aplikasi untuk kasir dan manajer. Aplikasi 
-                                kasir berguna untuk mencatat transaksi, dan pada aplikasi manajer dapat 
+                                <p>F-Mart, terdiri dari 2 (dua) aplikasi untuk kasir dan manajer. Aplikasi
+                                kasir berguna untuk mencatat transaksi, dan pada aplikasi manajer dapat
                                 melihat laporan penjualan dalam kurun waktu tertentu.</p>
                             </div>
-    
+
                         </div>
                     </div> <!-- end masonry__brick -->
-    
+
                     <div class="masonry__brick" data-aos="fade-up">
                         <div class="item-folio">
-                                
+
                             <div class="item-folio__thumb">
                                 <a href="images/portfolio/gallery/azisPc.png" class="thumb-link" title="AzisPC Apps" data-size="1050x700">
-                                    <img src="images/portfolio/azisPc.png" 
+                                    <img src="images/portfolio/azisPc.png"
                                          srcset="images/portfolio/azisPc.png 1x, images/portfolio/azisPc@2x.png 2x" alt="">
                                 </a>
                             </div>
-    
+
                             <div class="item-folio__text">
                                 <h3 class="item-folio__title">
                                     AzisPC Apps
@@ -382,17 +382,17 @@
                                     Web dan Mobile Apps
                                 </p>
                             </div>
-    
+
                             <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
                                 <i class="icon-link"></i>
                             </a>
-    
+
                             <div class="item-folio__caption">
-                                <p>Aplikasi untuk salah satu martket place di sekitar IPB yang concern di 
-                                bidang teknologi, dilengkapi dengan fitur yang memberikan detail reparasi 
+                                <p>Aplikasi untuk salah satu martket place di sekitar IPB yang concern di
+                                bidang teknologi, dilengkapi dengan fitur yang memberikan detail reparasi
                                 dll.</p>
                             </div>
-    
+
                         </div>
                     </div> <!-- end masonry__brick -->
 
@@ -417,7 +417,7 @@
         <div class="row clients-outer" data-aos="fade-up">
             <div class="col-full">
                 <div class="clients">
-                    
+
                     <a href="#0" title="" class="clients__slide"><img src="images/clients/angular.png" /></a>
                     <a href="#0" title="" class="clients__slide"><img src="images/clients/ionic.png" /></a>
                     <a href="#0" title="" class="clients__slide"><img src="images/clients/laravel.png" /></a>
@@ -426,7 +426,7 @@
                     <a href="#0" title="" class="clients__slide"><img src="images/clients/postman.png" /></a>
                     <a href="#0" title="" class="clients__slide"><img src="images/clients/spring.png" /></a>
                     <a href="#0" title="" class="clients__slide"><img src="images/clients/androidStudio.png" /></a>
-                     
+
                 </div> <!-- end clients -->
             </div> <!-- end col-full -->
         </div> <!-- end clients-outer -->
@@ -437,46 +437,46 @@
 
                     <div class="testimonials__slide">
 
-                        <p>Pelayanan codepanda baik dan bagus, komunikatif menghadapi client seperti saya 
-                        yang memiliki banyak permintaan, hasilnya juga memuaskan. Semoga semakin berkembang, 
+                        <p>Pelayanan codepanda baik dan bagus, komunikatif menghadapi client seperti saya
+                        yang memiliki banyak permintaan, hasilnya juga memuaskan. Semoga semakin berkembang,
                         lebih baik dan bagus lagi.</p>
 
                         <img src="images/avatars/mega.png" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name">Mega Salma - (Ekir)</span> 
+                            <span class="testimonials__name">Mega Salma - (Ekir)</span>
                             <span class="testimonials__pos">Mahasiswa Politeknik Keselamatan Transportasi Jalan</span>
                         </div>
 
                     </div>
 
                     <div class="testimonials__slide">
-                        
-                        <p>Adaptif dan sigap terhadap permintaan klien. Semangat belajar anggota tim 
+
+                        <p>Adaptif dan sigap terhadap permintaan klien. Semangat belajar anggota tim
                         pengembang juga baik. Sukses untuk codepanda.</p>
 
                         <img src="images/avatars/dean.png" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name">Dean Apriana Ramadhan, S.Komp, M.Kom</span> 
+                            <span class="testimonials__name">Dean Apriana Ramadhan, S.Komp, M.Kom</span>
                             <span class="testimonials__pos">Dosen Ilmu Komputer IPB</span>
                         </div>
 
                     </div>
 
                     <!-- <div class="testimonials__slide">
-                        
-                        <p>Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.  
+
+                        <p>Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.
                         Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio.</p>
 
                         <img src="images/avatars/arga.png" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name">Arga Putra Panatagama</span> 
+                            <span class="testimonials__name">Arga Putra Panatagama</span>
                             <span class="testimonials__pos">Mahasiswa Berprestasi 1 IPB 2018</span>
                         </div>
 
                     </div> -->
 
                 </div><!-- end testimonials -->
-                
+
             </div> <!-- end col-full -->
         </div> <!-- end client-testimonials -->
 
@@ -498,7 +498,7 @@
         </div>
 
         <div class="row contact-content" data-aos="fade-up">
-            
+
             <div class="contact-primary">
 
                 <h3 class="h6">Send Us A Message</h3>
@@ -506,7 +506,7 @@
                 <form role="form" method="POST" action="{{route('createMsg')}}">
                     @csrf
                     <fieldset>
-    
+
                     <div class="form-field">
                         <input name="name" type="text" id="contactName" placeholder="Nama Lengkap" value="" minlength="2" required="" aria-required="true" class="full-width">
                     </div>
@@ -540,7 +540,7 @@
                             </div>
                         </div>
                     {{-- </div> --}}
-    
+
                     </fieldset>
                 </form>
 
@@ -553,7 +553,7 @@
                     <!-- contact-warning -->
                     <div class="message-warning">
                         Terjadi kesalahan. Silahkan submit kembali.
-                    </div> 
+                    </div>
                 @endif
 
             </div> <!-- end contact-primary -->
@@ -590,7 +590,7 @@
                     <div class="cinfo">
                         <h5>Linkedin</h5>
                         <p>
-                            <span style="margin-left: 3vw"> <a style="color:inherit" href="https://www.linkedin.com/company/codepanda/">codepanda</a></span>                       
+                            <span style="margin-left: 3vw"> <a style="color:inherit" href="https://www.linkedin.com/company/codepanda/">codepanda</a></span>
                     </div>
 
                     <!-- <div class="cinfo">
@@ -602,8 +602,8 @@
                                 <li>
                                     <a href="https://www.instagram.com/codepanda/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                                 </li>
-                            </ul> end contact-social -->                 
-                    </div>                    
+                            </ul> end contact-social -->
+                    </div>
 
                 </div> <!-- end contact-info -->
             </div> <!-- end contact-secondary -->
@@ -647,6 +647,9 @@
                 <a class="icon-color btn-floating btn-sm btn-gplus mx-1" target="_blank" href="https://www.linkedin.com/company/13668039/">
                     <i style="margin-left:2vw" class="fa fa-linkedin fa-3x"> </i>
                 </a>
+                <a class="icon-color btn-floating btn-sm btn-gplus mx-1" target="_blank" href="https://www.youtube.com/channel/UCAaiGwTB8Ma-GZU68vXbfPg">
+                    <i style="margin-left:2vw" class="fa fa-youtube fa-3x"> </i>
+                </a>
 
             </div>
 
@@ -656,7 +659,7 @@
 
             <div class="col-twelve">
                 <div class="copyright">
-                    <span style="font-family: 'Montserrat', sans-serif; color: #f8f8f8; font-weight:500">Template inspired from Glint by Colorlib</span>	
+                    <span style="font-family: 'Montserrat', sans-serif; color: #f8f8f8; font-weight:500">Template inspired from Glint by Colorlib</span>
                 </div>
 
                 <div class="go-top">

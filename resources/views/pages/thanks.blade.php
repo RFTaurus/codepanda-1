@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="css/base-2.css">
     <link rel="stylesheet" href="css/vendor-2.css">
     <link rel="stylesheet" href="css/main-2.css">
-    
+
     <!-- script
     ================================================== -->
     <script src="js/modernizr.js"></script>
@@ -35,14 +35,14 @@
     <link rel="icon" href="images/faviconCircle.png" type="image/x-icon">
 
     <!-- Auto Clear Cache
-    ================================================== -->    
+    ================================================== -->
     <meta http-equiv="cache-control" content="no-cache">
 
 </head>
 <body id="top">
     <header class="s-header">
         <div class="header-logo">
-            <a class="site-logo logo-icon" href="index.html">
+            <a class="site-logo logo-icon" href="{{route('index')}}">
                 <img class="panda-logo" src="images/LogoPanda.png" alt="Homepage">
             </a>
         </div>
@@ -74,12 +74,18 @@
 
         <ul class="home-social">
             <li>
+                <a href="mailto:codepanda.id@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i><Span>Email</Span></a>
+            </li>
+            <li>
                 <a href="https://www.linkedin.com/company/13668039/"><i class="fa fa-linkedin" aria-hidden="true"></i><span>Linkedin</span></a>
             </li>
             <li>
                 <a href="https://www.instagram.com/codepanda/"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
             </li>
-        </ul> 
+            <li>
+                <a href="https://www.youtube.com/channel/UCAaiGwTB8Ma-GZU68vXbfPg"><i class="fa fa-youtube" aria-hidden="true"></i><span>Youtube</span></a>
+            </li>
+        </ul>
         <!-- end home-social -->
 
     </section> <!-- end s-home -->
