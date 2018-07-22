@@ -76,6 +76,12 @@
                     <li>
                         <a href="https://www.instagram.com/codepanda/"><i class="fa fa-instagram"></i></a>
                     </li>
+                    <li>
+                        <a href="mailto:codepanda.id@gmail.com"><i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCAaiGwTB8Ma-GZU68vXbfPg"><i class="fa fa-youtube"></i></a>
+                    </li>
                 </ul>
 
             </div> <!-- end header-nav__content -->
@@ -131,10 +137,16 @@
 
         <ul class="home-social">
             <li>
+                <a href="mailto:codepanda.id@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i><Span>Email</Span></a>
+            </li>
+            <li>
                 <a href="https://www.linkedin.com/company/13668039/"><i class="fa fa-linkedin" aria-hidden="true"></i><span>Linkedin</span></a>
             </li>
             <li>
                 <a href="https://www.instagram.com/codepanda/"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCAaiGwTB8Ma-GZU68vXbfPg"><i class="fa fa-youtube" aria-hidden="true"></i><span>Youtube</span></a>
             </li>
         </ul>
         <!-- end home-social -->
@@ -591,6 +603,12 @@
                         <h5>Linkedin</h5>
                         <p>
                             <span style="margin-left: 3vw"> <a style="color:inherit" href="https://www.linkedin.com/company/codepanda/">codepanda</a></span>
+                    </div>
+
+                    <div class="cinfo">
+                        <h5>Youtube Channel</h5>
+                        <p>
+                            <span style="margin-left: 3vw"> <a style="color:inherit" href="https://www.youtube.com/channel/UCAaiGwTB8Ma-GZU68vXbfPg">codepanda</a></span>
                     </div>
 
                     <!-- <div class="cinfo">
