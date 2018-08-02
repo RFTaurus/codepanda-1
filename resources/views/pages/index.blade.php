@@ -176,15 +176,15 @@
         <div class="row about-stats stats block-1-3 block-m-1-2 block-mob-full"  style="margin:0% auto" data-aos="fade-up">
 
             <div class="col-block stats__col ">
-                <div class="stats__count">6</div>
-                <h5>Project Ongoing</h5>
+                <div class="stats__count">4</div>
+                <h5>Project On Progress</h5>
             </div>
             <div class="col-block stats__col">
-                <div class="stats__count">2</div>
+                <div class="stats__count">5</div>
                 <h5>Projects Completed</h5>
             </div>
             <div class="col-block stats__col">
-                <div class="stats__count">2</div>
+                <div class="stats__count">3</div>
                 <h5>Happy Clients</h5>
             </div>
 
@@ -474,18 +474,17 @@
 
                     </div>
 
-                    <!-- <div class="testimonials__slide">
+                    <div class="testimonials__slide">
 
-                        <p>Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.
-                        Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio.</p>
+                        <p>Pelayanannya ramah, cepat dan teliti. Kreatornya fast respon dan memberikan saran yang bagus. Kalo kedepannya butuh editing bakal ke codepanda deh. Makasih banget codepanda.</p>
 
-                        <img src="images/avatars/arga.png" alt="Author image" class="testimonials__avatar">
+                        <img src="images/avatars/adrian.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name">Arga Putra Panatagama</span>
-                            <span class="testimonials__pos">Mahasiswa Berprestasi 1 IPB 2018</span>
+                            <span class="testimonials__name">Adrian - (Edubilitas)</span>
+                            <span class="testimonials__pos">Mahasiswa Fakultas Pertanian IPB Angkatan 53</span>
                         </div>
 
-                    </div> -->
+                    </div>
 
                 </div><!-- end testimonials -->
 
@@ -677,7 +676,7 @@
 
             <div class="col-twelve">
                 <div class="copyright">
-                    <span style="font-family: 'Montserrat', sans-serif; color: #f8f8f8; font-weight:500">Template inspired from Glint by Colorlib</span>
+                    <span style="font-family: 'Montserrat', sans-serif; color: #f8f8f8; font-weight:500">Template by Colorlib</span>
                 </div>
 
                 <div class="go-top">
