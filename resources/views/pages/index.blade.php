@@ -486,6 +486,18 @@
 
                     </div>
 
+                    <div class="testimonials__slide">
+
+                        <p>CodePanda, sebagai platform penghubung antara konseptor dan kreator, memiliki dampak yang cukup besar terhadap mahasiswa Ilmu Komputer IPB. Dengan adanya CodePanda, hardskill mahasiswa Ilmu Komputer dapat berkembang. Baik melalui pelatihan-pelatihan yang diadakan oleh CodePanda kepada mahasiswa ilmu Komputer, maupun dengan berpartisipasi sebagai kreator di CodePanda. Secara tidak langsung, CodePanda juga mendorong mahasiswa Ilmu Komputer IPB untuk belajar berwirausaha.</p>
+
+                        <img src="images/avatars/arga.png" alt="Author image" class="testimonials__avatar">
+                        <div class="testimonials__info">
+                            <span class="testimonials__name">Arga Putra Panatagama</span>
+                            <span class="testimonials__pos">Peringkat II Mahasiswa Berprestasi Program Sarjana Tingkat Nasional</span>
+                        </div>
+
+                    </div>
+
                 </div><!-- end testimonials -->
 
             </div> <!-- end col-full -->
