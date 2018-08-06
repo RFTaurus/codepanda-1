@@ -11,8 +11,8 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>Codepanda</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Codepanda adalah tempat bertemunya konseptor yang memiliki ide luar biasa dengan kreator yang memiliki kemampuan untuk mewujudkan ide tersebut melalui penggunaan teknologi digital.">
+    <meta name="author" content="Codepanda.web.id">
 
     <!-- mobile specific metas
     ================================================== -->
