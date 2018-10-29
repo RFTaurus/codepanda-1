@@ -176,15 +176,15 @@
         <div class="row about-stats stats block-1-3 block-m-1-2 block-mob-full"  style="margin:0% auto" data-aos="fade-up">
 
             <div class="col-block stats__col ">
-                <div class="stats__count">4</div>
+                <div class="stats__count">9</div>
                 <h5>Project On Progress</h5>
             </div>
             <div class="col-block stats__col">
-                <div class="stats__count">5</div>
+                <div class="stats__count">8</div>
                 <h5>Projects Completed</h5>
             </div>
             <div class="col-block stats__col">
-                <div class="stats__count">3</div>
+                <div class="stats__count">9</div>
                 <h5>Happy Clients</h5>
             </div>
 
@@ -287,9 +287,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/ekir.png" class="thumb-link" title="E-KIR Tangerang" data-size="1050x700">
-                                    <img src="images/portfolio/ekir.png"
-                                         srcset="images/portfolio/ekir.png 1x, images/portfolio/ekir@2x.png 2x" alt="">
+                                <a href="images/portfolio/gallery/ekir.jpg" class="thumb-link" title="E-KIR Tangerang" data-size="1050x700">
+                                    <img src="images/portfolio/ekir.jpg"
+                                         srcset="images/portfolio/ekir.jpg 1x, images/portfolio/ekir@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -317,9 +317,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/senyumDifabel.png" class="thumb-link" title="Senyum Difabel" data-size="1050x700">
-                                    <img src="images/portfolio/senyumDifabel.png"
-                                         srcset="images/portfolio/senyumDifabel.png 1x, images/portfolio/senyumDifabel@2x.png 2x" alt="">
+                                <a href="images/portfolio/gallery/senyumDifabel.jpg" class="thumb-link" title="Senyum Difabel" data-size="1050x700">
+                                    <img src="images/portfolio/senyumDifabel.jpg"
+                                         srcset="images/portfolio/senyumDifabel.jpg 1x, images/portfolio/senyumDifabel@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -348,9 +348,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/fmart.png" class="thumb-link" title="F-Mart Apps" data-size="1050x700">
-                                    <img src="images/portfolio/fmart.png"
-                                         srcset="images/portfolio/fmart.png 1x, images/portfolio/fmart@2x.png 2x" alt="">
+                                <a href="images/portfolio/gallery/fmart.jpg" class="thumb-link" title="F-Mart Apps" data-size="1050x700">
+                                    <img src="images/portfolio/fmart.jpg"
+                                         srcset="images/portfolio/fmart.jpg 1x, images/portfolio/fmart@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -380,9 +380,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/azisPc.png" class="thumb-link" title="AzisPC Apps" data-size="1050x700">
-                                    <img src="images/portfolio/azisPc.png"
-                                         srcset="images/portfolio/azisPc.png 1x, images/portfolio/azisPc@2x.png 2x" alt="">
+                                <a href="images/portfolio/gallery/azisPc.jpg" class="thumb-link" title="AzisPC Apps" data-size="1050x700">
+                                    <img src="images/portfolio/azisPc.jpg"
+                                         srcset="images/portfolio/azisPc.jpg 1x, images/portfolio/azisPc@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
