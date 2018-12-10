@@ -17,6 +17,7 @@
     <!-- mobile specific metas
     ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
 
     <!-- CSS
     ================================================== -->
@@ -317,9 +318,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/senyumDifabel.jpg" class="thumb-link" title="Senyum Difabel" data-size="1050x700">
-                                    <img src="images/portfolio/senyumDifabel.jpg"
-                                         srcset="images/portfolio/senyumDifabel.jpg 1x, images/portfolio/senyumDifabel@2x.jpg 2x" alt="">
+                                <a href="images/portfolio/gallery/senyumdifabel.jpg" class="thumb-link" title="Senyum Difabel" data-size="1050x700">
+                                    <img src="images/portfolio/senyumdifabel.jpg"
+                                         srcset="images/portfolio/senyumdifabel.jpg 1x, images/portfolio/senyumdifabel@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -380,9 +381,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/azisPc.jpg" class="thumb-link" title="AzisPC Apps" data-size="1050x700">
-                                    <img src="images/portfolio/azisPc.jpg"
-                                         srcset="images/portfolio/azisPc.jpg 1x, images/portfolio/azisPc@2x.jpg 2x" alt="">
+                                <a href="images/portfolio/gallery/azispc.jpg" class="thumb-link" title="AzisPC Apps" data-size="1050x700">
+                                    <img src="images/portfolio/azispc.jpg"
+                                         srcset="images/portfolio/azispc.jpg 1x, images/portfolio/azispc@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
