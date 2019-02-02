@@ -499,6 +499,20 @@
 
                     </div>
 
+                    <div class="testimonials__slide">
+
+                        <p>Terima kasih codepanda... pekerjaannya bagus, kreatif, ramah, komunikatif, dan ontime meskipun kejar tayang.... Perubahan-perubahan dilayani dengan baik, meskipun bolak-balik.... semoga semakin kreatif dan semakin baik....</p>
+
+                        <img src="images/avatars/etih.jpg" alt="Author image" class="testimonials__avatar">
+                        <div class="testimonials__info">
+                            <span class="testimonials__name"> Dr. Ir. Etih Sudarnika, MSi - (Isessah-sea)</span>
+                            <span class="testimonials__pos">Indonesia Ministry of Agriculture
+                            </span>
+                        </div>
+
+                    </div>
+
+
                 </div><!-- end testimonials -->
 
             </div> <!-- end col-full -->
