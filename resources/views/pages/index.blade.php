@@ -450,14 +450,25 @@
 
                     <div class="testimonials__slide">
 
-                        <p>Pelayanan codepanda baik dan bagus, komunikatif menghadapi client seperti saya
-                        yang memiliki banyak permintaan, hasilnya juga memuaskan. Semoga semakin berkembang,
-                        lebih baik dan bagus lagi.</p>
+                        <p>Terima kasih codepanda... pekerjaannya bagus, kreatif, ramah, komunikatif, dan ontime meskipun kejar tayang.... Perubahan-perubahan dilayani dengan baik, meskipun bolak-balik.... semoga semakin kreatif dan semakin baik....</p>
 
-                        <img src="images/avatars/mega.png" alt="Author image" class="testimonials__avatar">
+                        <img src="images/avatars/etih.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name">Mega Salma - (Ekir)</span>
-                            <span class="testimonials__pos">Mahasiswa Politeknik Keselamatan Transportasi Jalan</span>
+                            <span class="testimonials__name"> Dr. Ir. Etih Sudarnika, MSi - (Isessah-sea)</span>
+                            <span class="testimonials__pos">Indonesia Ministry of Agriculture
+                            </span>
+                        </div>
+
+                    </div>
+
+                    <div class="testimonials__slide">
+
+                        <p>CodePanda, sebagai platform penghubung antara konseptor dan kreator, memiliki dampak yang cukup besar terhadap mahasiswa Ilmu Komputer IPB. Dengan adanya CodePanda, hardskill mahasiswa Ilmu Komputer dapat berkembang. Baik melalui pelatihan-pelatihan yang diadakan oleh CodePanda kepada mahasiswa ilmu Komputer, maupun dengan berpartisipasi sebagai kreator di CodePanda. Secara tidak langsung, CodePanda juga mendorong mahasiswa Ilmu Komputer IPB untuk belajar berwirausaha.</p>
+
+                        <img src="images/avatars/arga.png" alt="Author image" class="testimonials__avatar">
+                        <div class="testimonials__info">
+                            <span class="testimonials__name">Arga Putra Panatagama</span>
+                            <span class="testimonials__pos">Peringkat II Mahasiswa Berprestasi Program Sarjana Tingkat Nasional</span>
                         </div>
 
                     </div>
@@ -477,6 +488,20 @@
 
                     <div class="testimonials__slide">
 
+                        <p>Pelayanan codepanda baik dan bagus, komunikatif menghadapi client seperti saya
+                        yang memiliki banyak permintaan, hasilnya juga memuaskan. Semoga semakin berkembang,
+                        lebih baik dan bagus lagi.</p>
+
+                        <img src="images/avatars/mega.png" alt="Author image" class="testimonials__avatar">
+                        <div class="testimonials__info">
+                            <span class="testimonials__name">Mega Salma - (Ekir)</span>
+                            <span class="testimonials__pos">Mahasiswa Politeknik Keselamatan Transportasi Jalan</span>
+                        </div>
+
+                    </div>
+
+                    <div class="testimonials__slide">
+
                         <p>Pelayanannya ramah, cepat dan teliti. Kreatornya fast respon dan memberikan saran yang bagus. Kalo kedepannya butuh editing bakal ke codepanda deh. Makasih banget codepanda.</p>
 
                         <img src="images/avatars/adrian.jpg" alt="Author image" class="testimonials__avatar">
@@ -486,32 +511,6 @@
                         </div>
 
                     </div>
-
-                    <div class="testimonials__slide">
-
-                        <p>CodePanda, sebagai platform penghubung antara konseptor dan kreator, memiliki dampak yang cukup besar terhadap mahasiswa Ilmu Komputer IPB. Dengan adanya CodePanda, hardskill mahasiswa Ilmu Komputer dapat berkembang. Baik melalui pelatihan-pelatihan yang diadakan oleh CodePanda kepada mahasiswa ilmu Komputer, maupun dengan berpartisipasi sebagai kreator di CodePanda. Secara tidak langsung, CodePanda juga mendorong mahasiswa Ilmu Komputer IPB untuk belajar berwirausaha.</p>
-
-                        <img src="images/avatars/arga.png" alt="Author image" class="testimonials__avatar">
-                        <div class="testimonials__info">
-                            <span class="testimonials__name">Arga Putra Panatagama</span>
-                            <span class="testimonials__pos">Peringkat II Mahasiswa Berprestasi Program Sarjana Tingkat Nasional</span>
-                        </div>
-
-                    </div>
-
-                    <div class="testimonials__slide">
-
-                        <p>Terima kasih codepanda... pekerjaannya bagus, kreatif, ramah, komunikatif, dan ontime meskipun kejar tayang.... Perubahan-perubahan dilayani dengan baik, meskipun bolak-balik.... semoga semakin kreatif dan semakin baik....</p>
-
-                        <img src="images/avatars/etih.jpg" alt="Author image" class="testimonials__avatar">
-                        <div class="testimonials__info">
-                            <span class="testimonials__name"> Dr. Ir. Etih Sudarnika, MSi - (Isessah-sea)</span>
-                            <span class="testimonials__pos">Indonesia Ministry of Agriculture
-                            </span>
-                        </div>
-
-                    </div>
-
 
                 </div><!-- end testimonials -->
 
