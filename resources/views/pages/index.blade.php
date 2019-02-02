@@ -2,7 +2,7 @@
 <!--[if lt IE 9 ]><html class="no-js oldie" lang="en"> <![endif]-->
 <!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!-->
-<html class="no-js" lang="en">
+<html class="no-js" lang="id">
 <!--<![endif]-->
 
 <head>
@@ -454,7 +454,7 @@
 
                         <img src="images/avatars/etih.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name"> Dr. Ir. Etih Sudarnika, MSi - (Isessah-sea)</span>
+                            <span class="testimonials__name"> Dr. Ir. Etih Sudarnika, MSi - <a href="https://isessah-sea.herokuapp.com/" target="__blank">(Isessah-sea)</a></span>
                             <span class="testimonials__pos">Indonesia Ministry of Agriculture
                             </span>
                         </div>
