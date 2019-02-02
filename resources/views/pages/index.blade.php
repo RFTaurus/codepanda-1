@@ -177,15 +177,15 @@
         <div class="row about-stats stats block-1-3 block-m-1-2 block-mob-full"  style="margin:0% auto" data-aos="fade-up">
 
             <div class="col-block stats__col ">
-                <div class="stats__count">5</div>
+                <div class="stats__count">6</div>
                 <h5>Project On Progress</h5>
             </div>
             <div class="col-block stats__col">
-                <div class="stats__count">11</div>
+                <div class="stats__count">12</div>
                 <h5>Projects Completed</h5>
             </div>
             <div class="col-block stats__col">
-                <div class="stats__count">9</div>
+                <div class="stats__count">11</div>
                 <h5>Happy Clients</h5>
             </div>
 
