@@ -181,11 +181,11 @@
                 <h5>Project On Progress</h5>
             </div>
             <div class="col-block stats__col">
-                <div class="stats__count">12</div>
+                <div class="stats__count">20</div>
                 <h5>Projects Completed</h5>
             </div>
             <div class="col-block stats__col">
-                <div class="stats__count">11</div>
+                <div class="stats__count">19</div>
                 <h5>Happy Clients</h5>
             </div>
 
@@ -290,7 +290,7 @@
                             <div class="item-folio__thumb">
                                 <a href="images/portfolio/gallery/ekir.jpg" class="thumb-link" title="E-KIR Tangerang" data-size="1050x700">
                                     <img src="images/portfolio/ekir.jpg"
-                                         srcset="images/portfolio/ekir.jpg 1x, images/portfolio/ekir@2x.jpg 2x" alt="">
+                                         srcset="images/portfolio/ekir.jpg 1x, images/portfolio/ekir@2x.jpg 2x" alt="Ekir Portfolio">
                                 </a>
                             </div>
 
@@ -320,7 +320,7 @@
                             <div class="item-folio__thumb">
                                 <a href="images/portfolio/gallery/senyumdifabel.jpg" class="thumb-link" title="Senyum Difabel" data-size="1050x700">
                                     <img src="images/portfolio/senyumdifabel.jpg"
-                                         srcset="images/portfolio/senyumdifabel.jpg 1x, images/portfolio/senyumdifabel@2x.jpg 2x" alt="">
+                                         srcset="images/portfolio/senyumdifabel.jpg 1x, images/portfolio/senyumdifabel@2x.jpg 2x" alt="Senyum Difabel">
                                 </a>
                             </div>
 
@@ -351,7 +351,7 @@
                             <div class="item-folio__thumb">
                                 <a href="images/portfolio/gallery/fmart.jpg" class="thumb-link" title="F-Mart Apps" data-size="1050x700">
                                     <img src="images/portfolio/fmart.jpg"
-                                         srcset="images/portfolio/fmart.jpg 1x, images/portfolio/fmart@2x.jpg 2x" alt="">
+                                         srcset="images/portfolio/fmart.jpg 1x, images/portfolio/fmart@2x.jpg 2x" alt="Fmart">
                                 </a>
                             </div>
 
@@ -383,7 +383,7 @@
                             <div class="item-folio__thumb">
                                 <a href="images/portfolio/gallery/azispc.jpg" class="thumb-link" title="AzisPC Apps" data-size="1050x700">
                                     <img src="images/portfolio/azispc.jpg"
-                                         srcset="images/portfolio/azispc.jpg 1x, images/portfolio/azispc@2x.jpg 2x" alt="">
+                                         srcset="images/portfolio/azispc.jpg 1x, images/portfolio/azispc@2x.jpg 2x" alt="Azis PC">
                                 </a>
                             </div>
 
@@ -431,14 +431,14 @@
             <div class="col-full">
                 <div class="clients">
 
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/angular.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/ionic.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/laravel.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/react.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/vsc.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/postman.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/spring.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/androidStudio.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="images/clients/angular.png"  alt="icon-angular"/></a>
+                    <a href="#0" title="" class="clients__slide"><img src="images/clients/ionic.png"  alt="icon-ionic"/></a>
+                    <a href="#0" title="" class="clients__slide"><img src="images/clients/laravel.png"  alt="icon-laravel"/></a>
+                    <a href="#0" title="" class="clients__slide"><img src="images/clients/react.png"  alt="icon-react"/></a>
+                    <a href="#0" title="" class="clients__slide"><img src="images/clients/vsc.png"  alt="icon-vsc"/></a>
+                    <a href="#0" title="" class="clients__slide"><img src="images/clients/postman.png"  alt="icon-postman"/></a>
+                    <a href="#0" title="" class="clients__slide"><img src="images/clients/spring.png"  alt="icon-spring"/></a>
+                    <a href="#0" title="" class="clients__slide"><img src="images/clients/androidStudio.png"  alt="icon-android-studio"/></a>
 
                 </div> <!-- end clients -->
             </div> <!-- end col-full -->
